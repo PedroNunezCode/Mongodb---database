@@ -1,0 +1,22 @@
+{
+  "name": "mongodb_todb",
+  "version": "1.0.0",
+  "description": "Start a node application then install all modules required to allow users to enter data. and store that data inside a document in mongoDB.s",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "angular.js"
+  ],
+  "author": "Pedro Nunez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6",
+    "nodemon": "^1.17.5"
+  }
+}
